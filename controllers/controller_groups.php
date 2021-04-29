@@ -1,0 +1,2 @@
+- get specific data for groups
+- make other manipulations
