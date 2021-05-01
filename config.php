@@ -1,8 +1,9 @@
 <?php
-class config {
+class config
+{
     static $ORGANIZATION = "sz-ybbs,dc=local";
     static $DOMAIN = "sz-ybbs.local";
-    static $LDAPHOST = "ldap://192.168.1.1";
+    static $LDAPHOST = "ldap://192.168.2.1";
     static $LDAPPORT = 389;
     static $MAXUSER = 500;
 
