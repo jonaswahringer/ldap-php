@@ -1,7 +1,13 @@
 # ldap-php
 
-LDAP connection with php, using MVC design pattern
+Web-based Active Directory connection with LDAP using php, according to the MVC design pattern.
 
-- displaying users and groups
-- force user to change password at next login
-- change user password
+Executing this program you get to:
+- display users and groups
+- force users to change password at next login
+- change users password
+
+Requirements:
+- Windows Server
+- VM running the Server, setting the lan segment to Host-Only
+- XAMPP to run the web-application locally
